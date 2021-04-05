@@ -1,0 +1,11 @@
+Definiciones
+
+1. Variable: son cajitas dentro de la computadora donde podemos guardar un dato. Puede ser un número, un nombre, un estado, o cualquier dato que nos pueda ser útil más adelante. Por ejemplo: el nombre de un jugador está guardado en una cajita, por lo tanto, es una variable. Su nivel de juego, cantidad de vidas, puntaje, etc son otros ejemplos de variables.
+
+2. Strings: son datos compuestos por textos, números, símbolos, o combinaciones de estos. Se los puede ver como un conjunto de caracteres. Ejemplo: "Hola", 'Henry', 'Moe4748', '???', '1212'.
+
+3. Funciones: son mini programas que funcionan de manera independiente dentro de una aplicación. Pueden recibir datos, procesarlos y arrojar un resultado.
+
+4. Declaración if: es una función que nos ayuda a determinar una condición. Si una condición se cumple, se va a ejecutar cierto código, si no se cumple, se ejecutará otro código. Por ejemplo: Al agregar nuetro usuario y contraseña, si los datos son correctos, se nos abre el Facebook, si no son correctos los datos, nos pide ingresarlos de vuelta.
+
+5. Valores booleanos: son dos estados en que puede estar una condición o una comparación de datos. Verdadero o falso, no puede ser otra cosa. Es como decir Si o No. Si la condición se cumple, es True, si no...es False.
